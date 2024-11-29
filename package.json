@@ -1,5 +1,5 @@
 {
-  "name": "@space48/cloud-seed",
+  "name": "@scandiweb/cloud-seed",
   "version": "3.0.0",
   "description": "Cloud infrastructure automation tool that uses Terraform CDK.",
   "main": "dist/index.js",
@@ -13,7 +13,7 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
-  "repository": "https://github.com/Space48/cloud-seed",
+  "repository": "https://github.com/scandiweb/cloud-seed",
   "scripts": {
     "prebuild": "rimraf .gen && cdktf get",
     "prepublishOnly": "npm run build",

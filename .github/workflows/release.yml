@@ -15,7 +15,7 @@ jobs:
         with:
           node-version: '14.x'
           registry-url: 'https://npm.pkg.github.com'
-          scope: '@space48'
+          scope: '@scandiweb'
       - name: Install
         run: npm ci
       - name: Build

@@ -1,6 +1,6 @@
 {
   "name": "@scandiweb/cloud-seed",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "Cloud infrastructure automation tool that uses Terraform CDK.",
   "main": "dist/index.js",
   "bin": {
